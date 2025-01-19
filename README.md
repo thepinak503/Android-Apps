@@ -10,7 +10,7 @@ Master the art of downloading. Get it now on [Google Play](https://play.google.c
 Block intrusive ads with precision. Find it on [F-Droid](https://f-droid.org/en/packages/org.adaway/).
 
 ### 🎭 **Alibi**  
-Your secret identity in an app. Embrace anonymity on [F-Droid](https://f-droid.org/en/packages/app.myzel394.alibi/).
+Use your phone as a dashcam and save the last 30 minutes when you need it. Find it on [F-Droid](https://f-droid.org/en/packages/app.myzel394.alibi/).
 
 ### 🔐 **Android Firewall Plus**  
 Fortify your network. Available on [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&hl=en_IN).
