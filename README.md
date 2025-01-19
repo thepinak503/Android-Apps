@@ -155,7 +155,7 @@ Manage and download apps with ease. Available on [Obtainium](https://obtainium.i
 Browse the web securely with Tor. Available on [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_IN).
 
 ### 🛠 **RCX**  
-Control your robot with this app. Available on [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en_IN).
+An utility for cloud file management. Available on [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en_IN).
 
 ### 🎥 **Remote Video Camera**  
 Control your phone’s camera remotely. Find it on [F-Droid](https://f-droid.org/en/packages/org.avmedia.remotevideocam/).
