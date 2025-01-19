@@ -27,6 +27,9 @@ Boost your brainpower with flashcards. Master it on [Google Play](https://play.g
 ### 🎙 **Basic Call Recorder**  
 Capture every conversation, effortlessly. Get it on [GitHub](https://github.com/nicorac/bcr-gui/releases).
 
+### **Birday**
+A simple yet useful birthday manager 🥳 [F-Droid](https://f-droid.org/en/packages/com.minar.birday/)
+
 ### 🌐 **Briar**  
 Stay connected without the internet. Available on [Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_IN).
 
@@ -37,15 +40,9 @@ Experience the weather in a new way. Grab it from [GitHub](https://github.com/br
 Find your voice in music! Explore on [F-Droid](https://f-droid.org/en/packages/org.samo_lego.canta/).
 
 ### 📑 **Chooser**  
-Choose your file manager with simplicity. Free on [F-Droid](https://f-droid.org/en/packages/com.uravgcode.chooser/).
+Choose your decision with simplicity. Free on [F-Droid](https://f-droid.org/en/packages/com.uravgcode.chooser/).
 
-### 📷 **Camera**  
-Capture memories with precision. Download from [F-Droid](https://f-droid.org/en/packages/org.fossify.camera/).
-
-### 📞 **Contacts**  
-Keep your loved ones close. Find it on [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/).
-
-### 🔍 **Cromite**  
+### 🔍 **Cromite (Bromite fork)**  
 Browse faster and safer. Available on [GitHub](https://github.com/uazo/cromite/releases).
 
 ### 🗂 **DAVx5**  
@@ -95,16 +92,13 @@ Stay connected with loved ones. Get it from [Google Play](https://play.google.co
 Connect your gadgets. Available on [F-Droid](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/).
 
 ### 🖼 **Image Toolbox**  
-Edit images on your device. Find it on [F-Droid](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/).
+Edit images on your device using various tools. Find it on [F-Droid](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/).
 
 ### 🏝 **Insular**  
 Isolate your apps for added privacy. Get it from [F-Droid](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/).
 
 ### 🔠 **Irregular Expressions**  
 Learn regular expressions in a fun way. Available on [F-Droid](https://f-droid.org/en/packages/mf.asciitext.lite/).
-
-### 🎮 **Java Version of Minecraft**  
-Play Minecraft with this Java version. Available on [F-Droid](https://f-droid.org/en/packages/com.minar.birday/).
 
 ### ✍️ **Karbon (Text Editor)**  
 Write with simplicity and power. Available on [F-Droid](https://f-droid.org/en/packages/com.rk.xededitor/).
