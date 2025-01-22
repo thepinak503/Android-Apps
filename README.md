@@ -1,209 +1,74 @@
 # 🌟 **Essential Android Apps** 🌟  
 A curated collection of must-have apps for your Android device. Unlock new experiences and elevate your mobile world!
 
+
 ---
 
-### 🚀 **1DM Download Manager**  
-Master the art of downloading. Get it now on [Google Play](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_IN).
+1. **[1DM Download Manager](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_IN)**  
+2. **[AdAway](https://f-droid.org/en/packages/org.adaway/)**  
+3. **[Alibi](https://f-droid.org/en/packages/app.myzel394.alibi/)**  
+4. **[Android Firewall Plus](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&hl=en_IN)**  
+5. **[Amaze File Manager](https://f-droid.org/packages/com.amaze.filemanager/)**  
+6. **[Activity Launcher](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher&hl=en_IN)**  
+7. **[AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_IN)**  
+8. **[Basic Call Recorder](https://github.com/nicorac/bcr-gui/releases)**  
+9. **[Birday](https://f-droid.org/en/packages/com.minar.birday/)**  
+10. **[Briar](https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_IN)**  
+11. **[BreezyWeather](https://github.com/breezy-weather/breezy-weather/releases)**  
+12. **[Canta](https://f-droid.org/en/packages/org.samo_lego.canta/)**  
+13. **[Chooser](https://f-droid.org/en/packages/com.uravgcode.chooser/)**  
+14. **[Cromite (Bromite fork)](https://github.com/uazo/cromite/releases)**  
+15. **[DAVx5](https://f-droid.org/en/packages/at.bitfire.davdroid/)**  
+16. **[Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw&hl=en_IN)**  
+17. **[Disky](https://f-droid.org/packages/de.felixnuesse.disky/)**  
+18. **[Ente Auth](https://f-droid.org/packages/io.ente.auth/) | [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth&hl=en)**  
+19. **[Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=en_IN)**  
+20. **[Fossify Apps Suite](https://f-droid.org/en/packages/org.fossify.phone/)**  
+21. **[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_IN)**  
+22. **[Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_IN)**  
+23. **[FFShare](https://f-droid.org/en/packages/com.caydey.ffshare/)**  
+24. **[Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en_IN)**  
+25. **[Gadget Bridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)**  
+26. **[Image Toolbox](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/)**  
+27. **[Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)**  
+28. **[Irregular Expressions](https://f-droid.org/en/packages/mf.asciitext.lite/)**  
+29. **[Karbon (Text Editor)](https://f-droid.org/en/packages/com.rk.xededitor/)**  
+30. **[KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) | [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)**  
+31. **[Kizzy](https://github.com/dead8309/Kizzy/releases)**  
+32. **[LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/)**  
+33. **[Limbo Emulator](https://virtualmachinery.weebly.com/limbo-downloads.html)**  
+34. **[LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)**  
+35. **[Libera Reader](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)**  
+36. **[Linux Command Library](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/)**  
+37. **[Mitch (Client for itch.io)](https://f-droid.org/packages/ua.gardenapple.itchupdater/)**  
+38. **[Metadata Remover](https://f-droid.org/en/packages/rocks.poopjournal.metadataremover/)**  
+39. **[Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)**  
+40. **[Mozilla Thunderbird](https://f-droid.org/packages/net.thunderbird.android/) | [Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)**  
+41. **[NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en_IN)**  
+42. **[NewPipe](https://f-droid.org/packages/org.schabi.newpipe/)**  
+43. **[Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en_IN)**  
+44. **[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)**  
+45. **[Obtainium](https://obtainium.imranr.dev/) | [GitHub](https://github.com/ImranR98/Obtainium/releases)**  
+46. **[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_IN)**  
+47. **[RCX](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en_IN)**  
+48. **[Remote Video Camera](https://f-droid.org/en/packages/org.avmedia.remotevideocam/)**  
+49. **[Shazam](https://play.google.com/store/apps/details?id=com.shazam.android)**  
+50. **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_IN)**  
+51. **[Simple Time Tracker](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker) | [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)**  
+52. **[SD Maid SE](https://play.google.com/store/apps/details?id=eu.darken.sdmse&hl=en_IN)**  
+53. **[SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en_IN)**  
+54. **[Syncthing](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&hl=en_IN)**  
+55. **[Termux](https://f-droid.org/en/packages/com.termux/)**  
+56. **[Trail Sense](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense&hl=en_IN)**  
+57. **[Vectras VM Emulator](https://vectras.vercel.app/download.html)**  
+58. **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/) | [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en_IN)**  
+59. **[Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet&hl=en_IN)**  
+60. **[Winlator](https://winlator.org/)**  
+61. **[Wiki Reader](https://f-droid.org/en/packages/org.nsh07.wikireader/)**  
+62. **[Widgeet-Color](https://play.google.com/store/apps/details?id=art.widgeet.android&hl=en)**  
+63. **[Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/)**  
+64. **[ZipXtract FD](https://f-droid.org/en/packages/com.wirelessalien.zipxtract/)**
 
-### 🛠 **AdAway**  
-Block intrusive ads with precision. Find it on [F-Droid](https://f-droid.org/en/packages/org.adaway/).
+---
 
-### 🎭 **Alibi**  
-Use your phone as a dashcam and save the last 30 minutes when you need it. Find it on [F-Droid](https://f-droid.org/en/packages/app.myzel394.alibi/).
-
-### 🔐 **Android Firewall Plus**  
-Fortify your network. Available on [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&hl=en_IN).
-
-### 🗂 **Amaze File Manager**  
-Navigate your files with ease. Free download from [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/).
-
-### 🎯 **Activity Launcher**  
-Take control of hidden features. Explore on [Google Play](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher&hl=en_IN).
-
-### 🧠 **AnkiDroid**  
-Boost your brainpower with flashcards. Master it on [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_IN).
-
-### 🎙 **Basic Call Recorder**  
-Capture every conversation, effortlessly. Get it on [GitHub](https://github.com/nicorac/bcr-gui/releases).
-
-### **Birday**
-A simple yet useful birthday manager 🥳 [F-Droid](https://f-droid.org/en/packages/com.minar.birday/)
-
-### 🌐 **Briar**  
-Stay connected without the internet. Available on [Google Play](https://play.google.com/store/apps/details?id=org.briarproject.briar.android&hl=en_IN).
-
-### 🌤 **BreezyWeather**  
-Experience the weather in a new way. Grab it from [GitHub](https://github.com/breezy-weather/breezy-weather/releases).
-
-### 🎤 **Canta**  
-Find your voice in music! Explore on [F-Droid](https://f-droid.org/en/packages/org.samo_lego.canta/).
-
-### 📑 **Chooser**  
-Choose your decision with simplicity. Free on [F-Droid](https://f-droid.org/en/packages/com.uravgcode.chooser/).
-
-### 🔍 **Cromite (Bromite fork)**  
-Browse faster and safer. Available on [GitHub](https://github.com/uazo/cromite/releases).
-
-### 🗂 **DAVx5**  
-Sync your contacts, calendars, and more! Get it from [F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/).
-
-### 🔧 **Device Info HW**  
-Unleash the secrets of your device’s hardware. Discover it on [Google Play](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw&hl=en_IN).
-
-### 💾 **Disky**  
-Organize your data effortlessly. Download from [F-Droid](https://f-droid.org/packages/de.felixnuesse.disky/).
-
-### 🔒 **Ente Auth**  
-Secure your apps with this modern authenticator. Get it from [F-Droid](https://f-droid.org/packages/io.ente.auth/) | [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth&hl=en).
-
-### 📡 **Feeder**  
-Feed your curiosity with a personalized news reader. Download from [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=en_IN).
-
-### 📱 **Fossify Apps Suite**  
-A collection of open-source apps:
-1. **Phone**: [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)  
-2. **Notes**: [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)  
-3. **Calendar**: [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)  
-4. **Home Screen Launcher**: [F-Droid](https://f-droid.org/en/packages/org.fossify.home/)  
-5. **File Manager**: [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)  
-6. **Gallery**: [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)  
-7. **Calculator**: [F-Droid](https://f-droid.org/en/packages/org.fossify.calculator/)  
-8. **Messages**: [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)  
-9. **Contacts**: [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)  
-10. **Keyboard**: [F-Droid](https://f-droid.org/en/packages/org.fossify.keyboard/)  
-11. **Paint**: [F-Droid](https://f-droid.org/en/packages/org.fossify.paint/)  
-12. **Camera**: [F-Droid](https://f-droid.org/en/packages/org.fossify.camera/)  
-13. **Music**: [F-Droid](https://f-droid.org/en/packages/org.fossify.musicplayer/)
-
-### 🌐 **Firefox Focus**  
-Browse the web with speed and privacy. Available on [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_IN).
-
-### 🌱 **Forest**  
-Stay focused and grow trees! Available on [Google Play](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_IN).
-
-### 🖼 **FFShare**  
-Share your files with ease. Download from [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/).
-
-### 💬 **Google Messages**  
-Stay connected with loved ones. Get it from [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en_IN).
-
-### 🛠 **Gadget Bridge**  
-Connect your gadgets. Available on [F-Droid](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/).
-
-### 🖼 **Image Toolbox**  
-Edit images on your device using various tools. Find it on [F-Droid](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/).
-
-### 🏝 **Insular**  
-Isolate your apps for added privacy. Get it from [F-Droid](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/).
-
-### 🔠 **Irregular Expressions**  
-Learn regular expressions in a fun way. Available on [F-Droid](https://f-droid.org/en/packages/mf.asciitext.lite/).
-
-### ✍️ **Karbon (Text Editor)**  
-Write with simplicity and power. Available on [F-Droid](https://f-droid.org/en/packages/com.rk.xededitor/).
-
-### 📱 **KDE Connect**  
-Integrate your Android device with your PC. Get it from [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) | [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp).
-
-### 🏁 **Kizzy**  
-Your personal download manager. Available on [GitHub](https://github.com/dead8309/Kizzy/releases).
-
-### 📥 **LibreTorrent**  
-A free, open-source torrent downloader. Find it on [F-Droid](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/).
-
-### 🖥 **Limbo Emulator**  
-Run various operating systems on your Android. Get it from [Limbo Downloads](https://virtualmachinery.weebly.com/limbo-downloads.html).
-
-### 🌍 **LocalSend**  
-Send files over Wi-Fi with ease. Available on [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app).
-
-### 📚 **Libera Reader**  
-A powerful PDF reader. Download it from [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/).
-
-### 🖥 **Linux Command Library**  
-Master Linux commands on the go. Find it on [F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/).
-
-### 🎮 **Mitch (Client for itch.io)**  
-Browse and play indie games from itch.io. Available on [F-Droid](https://f-droid.org/packages/ua.gardenapple.itchupdater/).
-
-### 🔒 **Metadata Remover**  
-Remove metadata from your files. Available on [F-Droid](https://f-droid.org/en/packages/rocks.poopjournal.metadataremover/).
-
-### 🌐 **Mull Browser**  
-Browse privately with Mull. Available on [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/).
-
-### 📧 **Mozilla Thunderbird**  
-Email, the open-source way. Available on [F-Droid](https://f-droid.org/packages/net.thunderbird.android/) | [Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android).
-
-### 🌍 **NetGuard**  
-A simple firewall for Android. Find it on [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en_IN).
-
-### 🎵 **NewPipe**  
-Stream videos and music without ads. Available on [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/).
-
-### 🚀 **Niagara Launcher**  
-A minimalist launcher for your Android. Available on [Google Play](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en_IN).
-
-### 🚀 **Nova Launcher**  
-Customizable, powerful launcher for your device. Get it from [Google Play](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher).
-
-### 📥 **Obtainium**  
-Manage and download apps with ease. Available on [Obtainium](https://obtainium.imranr.dev/) | [GitHub](https://github.com/ImranR98/Obtainium/releases).
-
-### 🛡 **Orbot**  
-Browse the web securely with Tor. Available on [Google Play](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_IN).
-
-### 🛠 **RCX**  
-An utility for cloud file management. Available on [Google Play](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en_IN).
-
-### 🎥 **Remote Video Camera**  
-Control your phone’s camera remotely. Find it on [F-Droid](https://f-droid.org/en/packages/org.avmedia.remotevideocam/).
-
-### 🎵 **Shazam**  
-Discover the music around you. Available on [Google Play](https://play.google.com/store/apps/details?id=com.shazam.android).
-
-### 🔒 **Shizuku**  
-Access system-level features with Shizuku. Available on [Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_IN).
-
-### ⏱ **Simple Time Tracker**  
-Track your time easily. Available on [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker) | [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/).
-
-### 🧹 **SD Maid SE**  
-Clean your device with SD Maid. Available on [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse&hl=en_IN).
-
-### 🔄 **SwiftBackup**  
-Back up your data with ease. Available on [Google Play](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en_IN).
-
-### 🔄 **Syncthing**  
-Sync your files securely. Find it on [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&hl=en_IN).
-
-### 💻 **Termux**  
-The powerful terminal emulator for Android. Available on [F-Droid](https://f-droid.org/en/packages/com.termux/).
-
-### 🏞 **Trail Sense**  
-A GPS tool for outdoor adventures. Available on [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense&hl=en_IN).
-
-### 🖥 **Vectras VM Emulator**  
-Run virtual machines on your Android device. Download from [Vectras](https://vectras.vercel.app/download.html).
-
-### 🎥 **VLC**  
-The versatile media player. Available on [F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/) | [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en_IN).
-
-### 🎶 **Wavelet**  
-Fine-tune your headphone sound. Available on [Google Play](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet&hl=en_IN).
-
-### 💻 **Winlator**  
-Run Windows apps on Android. Download from [Winlator](https://winlator.org/).
-
-### 📚 **Wiki Reader**  
-Read Wikipedia offline. Available on [F-Droid](https://f-droid.org/en/packages/org.nsh07.wikireader/).
-
-### 🎨 **Widgeet-Color**  
-Personalize your widgets with color. Available on [Google Play](https://play.google.com/store/apps/details?id=art.widgeet.android&hl=en).
-
-### 🚫 **Yet Another Call Blocker**  
-Block unwanted calls effortlessly. Available on [F-Droid](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/).
-
-### 🗜 **ZipXtract FD**  
-Extract files effortlessly. Available on [F-Droid](https://f-droid.org/en/packages/com.wirelessalien.zipxtract/).
+Let me know if anything else is needed!
