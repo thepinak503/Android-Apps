@@ -68,7 +68,9 @@ A curated collection of must-have apps for your Android device. Unlock new exper
 62. **[Widgeet-Color](https://play.google.com/store/apps/details?id=art.widgeet.android&hl=en)**  
 63. **[Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/)**  
 64. **[ZipXtract FD](https://f-droid.org/en/packages/com.wirelessalien.zipxtract/)**
+65. **[WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)**  
+66. **[Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)**  
+67. **[Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)**  
+68. **[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)**  
+69. **[Snapchat](https://play.google.com/store/apps/details?id=com.snapchat.android)**  
 
----
-
-Let me know if anything else is needed!
