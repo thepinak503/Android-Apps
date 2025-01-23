@@ -7,7 +7,7 @@ A curated collection of must-have apps for your Android device. Unlock new exper
 1. **[1DM Download Manager](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en_IN)**  
 2. **[AdAway](https://f-droid.org/en/packages/org.adaway/)**  
 3. **[Alibi](https://f-droid.org/en/packages/app.myzel394.alibi/)**  
-4. **[Android Firewall Plus](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&hl=en_IN)**  
+4. **[Android Firewall Plus](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&hl=en_IN)**   (root required)
 5. **[Amaze File Manager](https://f-droid.org/packages/com.amaze.filemanager/)**  
 6. **[Activity Launcher](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher&hl=en_IN)**  
 7. **[AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_IN)**  
