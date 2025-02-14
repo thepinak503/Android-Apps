@@ -74,5 +74,5 @@ A curated collection of must-have apps for your Android device. Unlock new exper
 68. **[Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)**  
 69. **[Snapchat](https://play.google.com/store/apps/details?id=com.snapchat.android)**
 70. **[M3U](https://f-droid.org/packages/com.m3u.androidApp/)**
-71. **[Innertune](https://f-droid.org/packages/com.zionhuang.music/)**
+71. **[Outertune](https://apt.izzysoft.de/fdroid/index/apk/com.dd3boh.outertune/)**
 
